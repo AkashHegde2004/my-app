@@ -12,3 +12,4 @@ steps:
       options: '-X'
       publishJUnitResults: true
       testResultsFiles: '**/surefire-reports/TEST-*.xml'
+
